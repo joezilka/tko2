@@ -1,0 +1,13 @@
+# requirements.txt
+snowflake-snowpark-python
+streamlit
+streamlit-aggrid
+st-annotated-text
+graphviz
+streamlit_wordcloud
+yake
+extra_streamlit_components
+cffi==1.15.0
+snowflake-sqlalchemy
+snowflake-connector-python
+Footer
